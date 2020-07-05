@@ -15,7 +15,7 @@
   </property>
   <property name="styleSheet">
    <string notr="true">color: rgb(32, 74, 135);
-font: 8pt &quot;Ubuntu Condensed&quot;;
+font: 8pt &quot;Ubuntu&quot;;
 </string>
   </property>
   <property name="modal">
