@@ -118,7 +118,7 @@ G4bool SimpleOpenGLStoredQtViewer::CompareForKernelVisit(G4ViewParameters& lastV
   // modifiers (fTreeItemModels, etc.).
   if (
       (lastVP.GetDrawingStyle ()    != fVP.GetDrawingStyle ())    ||
-      (lastVP.GetNumberOfCloudPoints()  != fVP.GetNumberOfCloudPoints())  ||
+      //(lastVP.GetNumberOfCloudPoints()  != fVP.GetNumberOfCloudPoints())  ||
       (lastVP.IsAuxEdgeVisible ()   != fVP.IsAuxEdgeVisible ())   ||
       (lastVP.IsCulling ()          != fVP.IsCulling ())          ||
       (lastVP.IsCullingInvisible () != fVP.IsCullingInvisible ()) ||
