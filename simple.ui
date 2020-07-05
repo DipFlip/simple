@@ -1325,6 +1325,11 @@ font: 8pt &quot;Ubuntu Condensed&quot;;</string>
                   </item>
                   <item>
                    <property name="text">
+                    <string>deuteron</string>
+                   </property>
+                  </item>
+                  <item>
+                   <property name="text">
                     <string>anti_proton</string>
                    </property>
                   </item>
